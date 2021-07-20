@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-video": "^4.4.4",
     "react-navigation": "^2.18.2",
     "react-navigation-redux-helpers": "^2.0.9",
